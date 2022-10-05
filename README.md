@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently studiying at Lhokseumawe State Polytechnic.
-- 😄 Enjoy with my GitHub Account
+🔭 I’m currently studiying at Lhokseumawe State Polytechnic.
+😄 Enjoy with my GitHub Account
 <!-- - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
