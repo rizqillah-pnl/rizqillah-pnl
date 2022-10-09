@@ -15,7 +15,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-## Language and tools
+## Language and Tools
 ![Python](https://img.shields.io/static/v1?style=badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
 ![C](https://img.shields.io/static/v1?style=badge&message=C&color=222222&logo=C&logoColor=A8B9CC&label=)
 ![C++](https://img.shields.io/static/v1?style=badge&message=C%2B%2B&color=00599C&logo=C%2B%2B&logoColor=FFFFFF&label=)
@@ -54,7 +54,7 @@
 ![XAMPP](https://img.shields.io/static/v1?style=badge&message=XAMPP&color=FB7A24&logo=XAMPP&logoColor=FFFFFF&label=)
 
 
-## Laptop
+## Laptop or PC
 [![Lenovo](https://img.shields.io/static/v1?style=for-the-badge&message=Lenovo&color=E2231A&logo=Lenovo&logoColor=FFFFFF&label=)](https://pcsupport.lenovo.com/id/id/products/laptops-and-netbooks/lenovo-v-series-laptops/v14-ada)
 ![Windows 10](https://img.shields.io/static/v1?style=for-the-badge&message=Windows&color=0078D6&logo=Windows&logoColor=FFFFFF&label=)
 ![AMD](https://img.shields.io/static/v1?style=for-the-badge&message=AMD&color=ED1C24&logo=AMD&logoColor=FFFFFF&label=)
@@ -62,10 +62,10 @@
 
 ![Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=222222&logo=Linux&logoColor=FCC624&label=)
 ![Linux Mint](https://img.shields.io/static/v1?style=for-the-badge&message=Linux+Mint&color=222222&logo=Linux+Mint&logoColor=87CF3E&label=)
+![Kali Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Kali+Linux&color=557C94&logo=Kali+Linux&logoColor=FFFFFF&label=)
 
 
-## talk to me
-
+## Talk To Me
 [![GitHub](https://img.shields.io/static/v1?style=badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)](https://github.com/rizqillah-pnl)
 [![GitLab](https://img.shields.io/static/v1?style=badge&message=GitLab&color=FC6D26&logo=GitLab&logoColor=FFFFFF&label=)](https://gitlab.com/rizqillah-pnl)
 [![Instagram](https://img.shields.io/static/v1?style=badge&message=Instagram&color=E4405F&logo=Instagram&logoColor=FFFFFF&label=)](https://www.instagram.com/rizqillah03)
