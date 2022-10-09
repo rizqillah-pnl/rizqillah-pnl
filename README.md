@@ -16,19 +16,44 @@
 - ⚡ Fun fact: ... -->
 
 # Language and tools
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
+![AMD](https://img.shields.io/static/v1?style=for-the-badge&message=AMD&color=ED1C24&logo=AMD&logoColor=FFFFFF&label=)
+![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
+![C](https://img.shields.io/static/v1?style=for-the-badge&message=C&color=222222&logo=C&logoColor=A8B9CC&label=)
+![C++](https://img.shields.io/static/v1?style=for-the-badge&message=C%2B%2B&color=00599C&logo=C%2B%2B&logoColor=FFFFFF&label=)
+![Chart.js](https://img.shields.io/static/v1?style=for-the-badge&message=Chart.js&color=FF6384&logo=Chart.js&logoColor=FFFFFF&label=)
+![FileZilla](https://img.shields.io/static/v1?style=for-the-badge&message=FileZilla&color=BF0000&logo=FileZilla&logoColor=FFFFFF&label=)
+![Firebase](https://img.shields.io/static/v1?style=for-the-badge&message=Firebase&color=222222&logo=Firebase&logoColor=FFCA28&label=)
+![JSON](https://img.shields.io/static/v1?style=for-the-badge&message=JSON&color=000000&logo=JSON&logoColor=FFFFFF&label=)
+![Laravel](https://img.shields.io/static/v1?style=for-the-badge&message=Laravel&color=FF2D20&logo=Laravel&logoColor=FFFFFF&label=)
+![Linux Mint](https://img.shields.io/static/v1?style=for-the-badge&message=Linux+Mint&color=222222&logo=Linux+Mint&logoColor=87CF3E&label=)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-squarelogo=numpy&logoColor=white)
+![Node.js](https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=339933&logo=Node.js&logoColor=FFFFFF&label=)
+![npm](https://img.shields.io/static/v1?style=for-the-badge&message=npm&color=CB3837&logo=npm&logoColor=FFFFFF&label=)
+![MySQL](https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=4479A1&logo=MySQL&logoColor=FFFFFF&label=)
+![OBS Studio](https://img.shields.io/static/v1?style=for-the-badge&message=OBS+Studio&color=302E31&logo=OBS+Studio&logoColor=FFFFFF&label=)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat-square&logo=gitlab&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style&logo=TensorFlow&logoColor=white)
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=flat-square&logo=GoogleChrome&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-1793D1?logo=PHP&logoColor=fff&style=flat-square)
-![JavaScript](https://img.shields.io/badge/Javascript-23FF6F?logo=Javascript&logoColor=fff&style=flat-square)
-![Java](https://img.shields.io/badge/Java-23FF6F?logo=Java&logoColor=fff&style=flat-square)
+![PHP](https://img.shields.io/static/v1?style=for-the-badge&message=PHP&color=777BB4&logo=PHP&logoColor=FFFFFF&label=)
+![phpMyAdmin](https://img.shields.io/static/v1?style=for-the-badge&message=phpMyAdmin&color=6C78AF&logo=phpMyAdmin&logoColor=FFFFFF&label=)
+![Postman](https://img.shields.io/static/v1?style=for-the-badge&message=Postman&color=FF6C37&logo=Postman&logoColor=FFFFFF&label=)
+![Proxmox](https://img.shields.io/static/v1?style=for-the-badge&message=Proxmox&color=E57000&logo=Proxmox&logoColor=FFFFFF&label=)
+![PyCharm](https://img.shields.io/static/v1?style=for-the-badge&message=PyCharm&color=000000&logo=PyCharm&logoColor=FFFFFF&label=)
+![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=)
+![Adobe Photoshop](https://img.shields.io/static/v1?style=for-the-badge&message=Adobe+Photoshop&color=31A8FF&logo=Adobe+Photoshop&logoColor=FFFFFF&label=)
+![Android](https://img.shields.io/static/v1?style=for-the-badge&message=Android&color=222222&logo=Android&logoColor=3DDC84&label=)
+![Android Studio](https://img.shields.io/static/v1?style=for-the-badge&message=Android+Studio&color=222222&logo=Android+Studio&logoColor=3DDC84&label=)
+![Apache](https://img.shields.io/static/v1?style=for-the-badge&message=Apache&color=D22128&logo=Apache&logoColor=FFFFFF&label=)
+![Wireshark](https://img.shields.io/static/v1?style=for-the-badge&message=Wireshark&color=1679A7&logo=Wireshark&logoColor=FFFFFF&label=)
+![XAMPP](https://img.shields.io/static/v1?style=for-the-badge&message=XAMPP&color=FB7A24&logo=XAMPP&logoColor=FFFFFF&label=)
+
+
+## Laptop
+[![Lenovo](https://img.shields.io/static/v1?style=for-the-badge&message=Lenovo&color=E2231A&logo=Lenovo&logoColor=FFFFFF&label=)](https://pcsupport.lenovo.com/id/id/products/laptops-and-netbooks/lenovo-v-series-laptops/v14-ada)
+![Windows 10](https://img.shields.io/static/v1?style=for-the-badge&message=Windows&color=0078D6&logo=Windows&logoColor=FFFFFF&label=)
 
 
 ## talk to me
