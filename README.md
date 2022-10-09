@@ -27,6 +27,8 @@
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=flat-square&logo=GoogleChrome&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-1793D1?logo=PHP&logoColor=fff&style=flat-square)
+![JavaScript](https://img.shields.io/badge/Javascript-23FF6F?logo=Javascript&logoColor=fff&style=flat-square)
+![Java](https://img.shields.io/badge/Java-23FF6F?logo=Java&logoColor=fff&style=flat-square)
 
 
 ## talk to me
