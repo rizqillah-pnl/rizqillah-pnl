@@ -1,4 +1,4 @@
-### Hi there, I'm <a href='https://github.com/rizqillah-pnl'>RIZQILLAH</a> 👋
+# Hi there, I'm <a href='https://github.com/rizqillah-pnl'>RIZQILLAH</a> 👋
 
 
 <!-- **rizqillah-pnl/rizqillah-pnl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
@@ -15,16 +15,20 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-# Language and tools
+## Language and tools
 ![AMD](https://img.shields.io/static/v1?style=for-the-badge&message=AMD&color=ED1C24&logo=AMD&logoColor=FFFFFF&label=)
 ![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
 ![C](https://img.shields.io/static/v1?style=for-the-badge&message=C&color=222222&logo=C&logoColor=A8B9CC&label=)
 ![C++](https://img.shields.io/static/v1?style=for-the-badge&message=C%2B%2B&color=00599C&logo=C%2B%2B&logoColor=FFFFFF&label=)
 ![Chart.js](https://img.shields.io/static/v1?style=for-the-badge&message=Chart.js&color=FF6384&logo=Chart.js&logoColor=FFFFFF&label=)
+![Dart](https://img.shields.io/static/v1?style=for-the-badge&message=Dart&color=0175C2&logo=Dart&logoColor=FFFFFF&label=)
+![Delphi](https://img.shields.io/static/v1?style=for-the-badge&message=Delphi&color=EE1F35&logo=Delphi&logoColor=FFFFFF&label=)
+![Flutter](https://img.shields.io/static/v1?style=for-the-badge&message=Flutter&color=02569B&logo=Flutter&logoColor=FFFFFF&label=)
 ![FileZilla](https://img.shields.io/static/v1?style=for-the-badge&message=FileZilla&color=BF0000&logo=FileZilla&logoColor=FFFFFF&label=)
 ![Firebase](https://img.shields.io/static/v1?style=for-the-badge&message=Firebase&color=222222&logo=Firebase&logoColor=FFCA28&label=)
 ![JSON](https://img.shields.io/static/v1?style=for-the-badge&message=JSON&color=000000&logo=JSON&logoColor=FFFFFF&label=)
 ![Laravel](https://img.shields.io/static/v1?style=for-the-badge&message=Laravel&color=FF2D20&logo=Laravel&logoColor=FFFFFF&label=)
+![Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=222222&logo=Linux&logoColor=FCC624&label=)
 ![Linux Mint](https://img.shields.io/static/v1?style=for-the-badge&message=Linux+Mint&color=222222&logo=Linux+Mint&logoColor=87CF3E&label=)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-squarelogo=numpy&logoColor=white)
 ![Node.js](https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=339933&logo=Node.js&logoColor=FFFFFF&label=)
