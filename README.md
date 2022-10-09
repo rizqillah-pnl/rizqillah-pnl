@@ -62,5 +62,5 @@
 
 ## talk to me
 
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/rizqillah03)
-[![facebook](https://img.shields.io/badge/Facebook-F96854?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/kazuryo.group)
+[![Instagram](https://img.shields.io/static/v1?style=for-the-badge&message=Instagram&color=E4405F&logo=Instagram&logoColor=FFFFFF&label=)](https://www.instagram.com/rizqillah03)
+[![Facebook](https://img.shields.io/static/v1?style=for-the-badge&message=Facebook&color=1877F2&logo=Facebook&logoColor=FFFFFF&label=)](https://www.facebook.com/kazuryo.group)
