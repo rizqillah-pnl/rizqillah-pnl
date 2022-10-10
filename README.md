@@ -26,6 +26,7 @@
 ![FileZilla](https://img.shields.io/static/v1?style=badge&message=FileZilla&color=BF0000&logo=FileZilla&logoColor=FFFFFF&label=)
 ![Firebase](https://img.shields.io/static/v1?style=badge&message=Firebase&color=222222&logo=Firebase&logoColor=FFCA28&label=)
 ![JSON](https://img.shields.io/static/v1?style=badge&message=JSON&color=000000&logo=JSON&logoColor=FFFFFF&label=)
+![jQuery](https://img.shields.io/static/v1?style=for-the-badge&message=jQuery&color=0769AD&logo=jQuery&logoColor=FFFFFF&label=)
 ![Laravel](https://img.shields.io/static/v1?style=badge&message=Laravel&color=FF2D20&logo=Laravel&logoColor=FFFFFF&label=)
 ![NumPy](https://img.shields.io/static/v1?style=badge&message=NumPy&color=013243&logo=NumPy&logoColor=FFFFFF&label=)
 ![Node.js](https://img.shields.io/static/v1?style=badge&message=Node.js&color=339933&logo=Node.js&logoColor=FFFFFF&label=)
@@ -42,6 +43,8 @@
 ![Postman](https://img.shields.io/static/v1?style=badge&message=Postman&color=FF6C37&logo=Postman&logoColor=FFFFFF&label=)
 ![Proxmox](https://img.shields.io/static/v1?style=badge&message=Proxmox&color=E57000&logo=Proxmox&logoColor=FFFFFF&label=)
 ![PyCharm](https://img.shields.io/static/v1?style=badge&message=PyCharm&color=000000&logo=PyCharm&logoColor=FFFFFF&label=)
+![Ruby](https://img.shields.io/static/v1?style=badge&message=Ruby&color=CC342D&logo=Ruby&logoColor=FFFFFF&label=)
+![React](https://img.shields.io/static/v1?style=badge&message=React&color=222222&logo=React&logoColor=61DAFB&label=)
 ![JavaScript](https://img.shields.io/static/v1?style=badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=)
 ![Adobe Photoshop](https://img.shields.io/static/v1?style=badge&message=Adobe+Photoshop&color=31A8FF&logo=Adobe+Photoshop&logoColor=FFFFFF&label=)
 ![Qgis](https://img.shields.io/static/v1?style=badge&message=Qgis&color=589632&logo=Qgis&logoColor=FFFFFF&label=)
@@ -52,13 +55,17 @@
 ![VMware](https://img.shields.io/static/v1?style=badge&message=VMware&color=607078&logo=VMware&logoColor=FFFFFF&label=)
 ![Wireshark](https://img.shields.io/static/v1?style=badge&message=Wireshark&color=1679A7&logo=Wireshark&logoColor=FFFFFF&label=)
 ![XAMPP](https://img.shields.io/static/v1?style=badge&message=XAMPP&color=FB7A24&logo=XAMPP&logoColor=FFFFFF&label=)
+![Laragon](https://img.shields.io/static/v1?style=badge&message=Laragon&color=0E83CD&logo=Laragon&logoColor=FFFFFF&label=)
+![TeamViewer](https://img.shields.io/static/v1?style=badge&message=TeamViewer&color=004680&logo=TeamViewer&logoColor=FFFFFF&label=)
 
 
 ## Laptop or PC
 [![Lenovo](https://img.shields.io/static/v1?style=for-the-badge&message=Lenovo&color=E2231A&logo=Lenovo&logoColor=FFFFFF&label=)](https://pcsupport.lenovo.com/id/id/products/laptops-and-netbooks/lenovo-v-series-laptops/v14-ada)
-![Windows 10](https://img.shields.io/static/v1?style=for-the-badge&message=Windows&color=0078D6&logo=Windows&logoColor=FFFFFF&label=)
-![AMD](https://img.shields.io/static/v1?style=for-the-badge&message=AMD&color=ED1C24&logo=AMD&logoColor=FFFFFF&label=)
-![Google Chrome](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Chrome&color=4285F4&logo=Google+Chrome&logoColor=FFFFFF&label=)
+![Windows 10](https://img.shields.io/static/v1?style=badge&message=Windows&color=0078D6&logo=Windows&logoColor=FFFFFF&label=)
+![AMD](https://img.shields.io/static/v1?style=badge&message=AMD&color=ED1C24&logo=AMD&logoColor=FFFFFF&label=)
+![Google Chrome](https://img.shields.io/static/v1?style=badge&message=Google+Chrome&color=4285F4&logo=Google+Chrome&logoColor=FFFFFF&label=)
+![Visual Studio Code](https://img.shields.io/static/v1?style=badge&message=Visual+Studio+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=)
+![Sublime Text](https://img.shields.io/static/v1?style=badge&message=Sublime+Text&color=222222&logo=Sublime+Text&logoColor=FF9800&label=)
 
 ![Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=222222&logo=Linux&logoColor=FCC624&label=)
 ![Linux Mint](https://img.shields.io/static/v1?style=for-the-badge&message=Linux+Mint&color=222222&logo=Linux+Mint&logoColor=87CF3E&label=)
