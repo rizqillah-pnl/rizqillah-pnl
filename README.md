@@ -26,7 +26,7 @@
 ![FileZilla](https://img.shields.io/static/v1?style=badge&message=FileZilla&color=BF0000&logo=FileZilla&logoColor=FFFFFF&label=)
 ![Firebase](https://img.shields.io/static/v1?style=badge&message=Firebase&color=222222&logo=Firebase&logoColor=FFCA28&label=)
 ![JSON](https://img.shields.io/static/v1?style=badge&message=JSON&color=000000&logo=JSON&logoColor=FFFFFF&label=)
-![jQuery](https://img.shields.io/static/v1?style=for-the-badge&message=jQuery&color=0769AD&logo=jQuery&logoColor=FFFFFF&label=)
+![jQuery](https://img.shields.io/static/v1?style=badge&message=jQuery&color=0769AD&logo=jQuery&logoColor=FFFFFF&label=)
 ![Laravel](https://img.shields.io/static/v1?style=badge&message=Laravel&color=FF2D20&logo=Laravel&logoColor=FFFFFF&label=)
 ![NumPy](https://img.shields.io/static/v1?style=badge&message=NumPy&color=013243&logo=NumPy&logoColor=FFFFFF&label=)
 ![Node.js](https://img.shields.io/static/v1?style=badge&message=Node.js&color=339933&logo=Node.js&logoColor=FFFFFF&label=)
