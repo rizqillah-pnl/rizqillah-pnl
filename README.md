@@ -61,15 +61,15 @@
 
 ## Laptop or PC
 [![Lenovo](https://img.shields.io/static/v1?style=badge&message=Lenovo&color=E2231A&logo=Lenovo&logoColor=FFFFFF&label=)](https://pcsupport.lenovo.com/id/id/products/laptops-and-netbooks/lenovo-v-series-laptops/v14-ada)
-![Windows 10](https://img.shields.io/static/v1?style=badge&message=Windows&color=0078D6&logo=Windows&logoColor=FFFFFF&label=)
-![AMD](https://img.shields.io/static/v1?style=badge&message=AMD&color=ED1C24&logo=AMD&logoColor=FFFFFF&label=)
-![Google Chrome](https://img.shields.io/static/v1?style=badge&message=Google+Chrome&color=4285F4&logo=Google+Chrome&logoColor=FFFFFF&label=)
-![Visual Studio Code](https://img.shields.io/static/v1?style=badge&message=Visual+Studio+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=)
-![Sublime Text](https://img.shields.io/static/v1?style=badge&message=Sublime+Text&color=222222&logo=Sublime+Text&logoColor=FF9800&label=)
+[![Windows 10](https://img.shields.io/static/v1?style=badge&message=Windows&color=0078D6&logo=Windows&logoColor=FFFFFF&label=)](https://support.microsoft.com/en-us/topic/march-8-2022-kb5011487-os-builds-19042-1586-19043-1586-and-19044-1586-8297eadb-3b8b-4ca5-9083-ca41a91c1c56)
+[![AMD](https://img.shields.io/static/v1?style=badge&message=AMD&color=ED1C24&logo=AMD&logoColor=FFFFFF&label=)](https://www.amd.com/en/products/apu/amd-ryzen-3-3250u)
+[![Google Chrome](https://img.shields.io/static/v1?style=badge&message=Google+Chrome&color=4285F4&logo=Google+Chrome&logoColor=FFFFFF&label=)](https://www.google.co.id/chrome/)
+[![Visual Studio Code](https://img.shields.io/static/v1?style=badge&message=Visual+Studio+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=)](https://code.visualstudio.com)
+[![Sublime Text](https://img.shields.io/static/v1?style=badge&message=Sublime+Text&color=222222&logo=Sublime+Text&logoColor=FF9800&label=)](https://www.sublimetext.com)
 
 ![Linux](https://img.shields.io/static/v1?style=badge&message=Linux&color=222222&logo=Linux&logoColor=FCC624&label=)
-![Linux Mint](https://img.shields.io/static/v1?style=badge&message=Linux+Mint&color=222222&logo=Linux+Mint&logoColor=87CF3E&label=)
-![Kali Linux](https://img.shields.io/static/v1?style=badge&message=Kali+Linux&color=557C94&logo=Kali+Linux&logoColor=FFFFFF&label=)
+[![Linux Mint](https://img.shields.io/static/v1?style=badge&message=Linux+Mint&color=222222&logo=Linux+Mint&logoColor=87CF3E&label=)](https://linuxmint.com)
+[![Kali Linux](https://img.shields.io/static/v1?style=badge&message=Kali+Linux&color=557C94&logo=Kali+Linux&logoColor=FFFFFF&label=)](https://www.kali.org/)
 
 
 ## Talk To Me
