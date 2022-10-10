@@ -60,16 +60,16 @@
 
 
 ## Laptop or PC
-[![Lenovo](https://img.shields.io/static/v1?style=for-the-badge&message=Lenovo&color=E2231A&logo=Lenovo&logoColor=FFFFFF&label=)](https://pcsupport.lenovo.com/id/id/products/laptops-and-netbooks/lenovo-v-series-laptops/v14-ada)
+[![Lenovo](https://img.shields.io/static/v1?style=badge&message=Lenovo&color=E2231A&logo=Lenovo&logoColor=FFFFFF&label=)](https://pcsupport.lenovo.com/id/id/products/laptops-and-netbooks/lenovo-v-series-laptops/v14-ada)
 ![Windows 10](https://img.shields.io/static/v1?style=badge&message=Windows&color=0078D6&logo=Windows&logoColor=FFFFFF&label=)
 ![AMD](https://img.shields.io/static/v1?style=badge&message=AMD&color=ED1C24&logo=AMD&logoColor=FFFFFF&label=)
 ![Google Chrome](https://img.shields.io/static/v1?style=badge&message=Google+Chrome&color=4285F4&logo=Google+Chrome&logoColor=FFFFFF&label=)
 ![Visual Studio Code](https://img.shields.io/static/v1?style=badge&message=Visual+Studio+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=)
 ![Sublime Text](https://img.shields.io/static/v1?style=badge&message=Sublime+Text&color=222222&logo=Sublime+Text&logoColor=FF9800&label=)
 
-![Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=222222&logo=Linux&logoColor=FCC624&label=)
-![Linux Mint](https://img.shields.io/static/v1?style=for-the-badge&message=Linux+Mint&color=222222&logo=Linux+Mint&logoColor=87CF3E&label=)
-![Kali Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Kali+Linux&color=557C94&logo=Kali+Linux&logoColor=FFFFFF&label=)
+![Linux](https://img.shields.io/static/v1?style=badge&message=Linux&color=222222&logo=Linux&logoColor=FCC624&label=)
+![Linux Mint](https://img.shields.io/static/v1?style=badge&message=Linux+Mint&color=222222&logo=Linux+Mint&logoColor=87CF3E&label=)
+![Kali Linux](https://img.shields.io/static/v1?style=badge&message=Kali+Linux&color=557C94&logo=Kali+Linux&logoColor=FFFFFF&label=)
 
 
 ## Talk To Me
