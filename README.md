@@ -17,6 +17,8 @@
 
 [![@rizqillah03's Holopin board](https://holopin.me/rizqillah03)](https://holopin.io/@rizqillah03)
 
+<img align="right" alt="sglkc's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizqillah-pnl&layout=compact&langs_count=6&theme=tokyonight&border_color=30363d">
+
 ## Language and Tools
 ![Python](https://img.shields.io/static/v1?style=badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
 ![C](https://img.shields.io/static/v1?style=badge&message=C&color=222222&logo=C&logoColor=A8B9CC&label=)
