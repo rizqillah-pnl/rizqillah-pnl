@@ -9,7 +9,7 @@
 👯 I’m looking to collaborate on Web Fullstack and Android.<br>
 😄 Enjoy with my GitHub Account<br>
 
-I am certified as a Junior Web Programmer at LSP Digital on 15 Nov 22
+I am **Certified** as a **Junior Web Programmer** at LSP Digital on 15 Nov 22
 
 ⚡ Fun fact: I study because I'm lazy
 
