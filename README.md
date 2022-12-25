@@ -11,7 +11,7 @@
 
 I am **Certified** as a **Junior Web Programmer** at LSP Digital on 15 Nov 22
 
-⚡ Fun fact: I study because I'm lazy
+⚡ Fun fact: I like to learn new things, its awesome
 
 <!-- - 🌱 I’m currently learning ...
 - 
