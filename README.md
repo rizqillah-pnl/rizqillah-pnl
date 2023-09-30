@@ -9,7 +9,7 @@
 👯 I’m looking to collaborate on Web Fullstack and Android.<br>
 😄 Enjoy with my GitHub Account<br>
 
-I have succeeded in obtaining a **BNSP certificate** in the field of **Junior Web Programmer** through the LSP Digital Medan agency on November 15, 2022
+I have succeeded in obtaining a **BNSP certificate** in the field of **Junior Web Programmer** through the LSP Digital Medan agency on November 15, 2022 and September 15, 2023
 
 ⚡ Fun fact: I like to learn new things, its awesome
 
