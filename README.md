@@ -21,8 +21,6 @@ I have succeeded in obtaining a **BNSP certificate** in the field of **Junior We
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-[![@rizqillah03's Holopin board](https://holopin.me/rizqillah03)](https://holopin.io/@rizqillah03)
-
 <img align="right" alt="sglkc's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizqillah-pnl&layout=compact&langs_count=6&theme=tokyonight&border_color=30363d">
 
 ## Language and Tools
