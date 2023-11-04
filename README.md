@@ -85,6 +85,7 @@ I have succeeded in obtaining a **BNSP certificate** in the field of **Junior We
 [![GitLab](https://img.shields.io/static/v1?style=badge&message=GitLab&color=FC6D26&logo=GitLab&logoColor=FFFFFF&label=)](https://gitlab.com/rizqillah-pnl)
 [![Instagram](https://img.shields.io/static/v1?style=badge&message=Instagram&color=E4405F&logo=Instagram&logoColor=FFFFFF&label=)](https://www.instagram.com/rizqillah03)
 [![Facebook](https://img.shields.io/static/v1?style=badge&message=Facebook&color=1877F2&logo=Facebook&logoColor=FFFFFF&label=)](https://www.facebook.com/kazuryo.group)
+[![Linkedin](https://img.shields.io/static/v1?style=badge&message=Linkedin&color=1877F2&logo=Linkedin&logoColor=FFFFFF&label=)]([https://www.facebook.com/kazuryo.group](https://www.linkedin.com/in/rizqillah-pnl-539a661b7/))
 
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=rizqillah-pnl&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
